@@ -1,0 +1,22 @@
+{
+  "name": "untitled",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/0xd230/untitled-web#readme",
+  "bugs": {
+    "url": "https://github.com/0xd230/untitled-web/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xd230/untitled-web.git"
+  },
+  "license": "ISC",
+  "author": "d230",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "three": "^0.184.0"
+  }
+}
